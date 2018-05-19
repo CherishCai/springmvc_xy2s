@@ -13,7 +13,7 @@
 					style="color: #3366FF">${title }</span></strong></a>&nbsp;<br />
 		</div>
 		<div align="center">
-			<a href="<%=basePath%>/admin/login.shtml" target="_blank">管理员入口</a>
+			<a href="<%=basePath%>admin/login.shtml" target="_blank">管理员入口</a>
 		</div>
 		<div class="blank"></div>
 	</div>
